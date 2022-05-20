@@ -1,0 +1,2 @@
+python DDOSAttack.py
+pause
